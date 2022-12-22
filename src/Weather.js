@@ -76,16 +76,16 @@ export default function Weather() {
           </div>
         </div>
         <small>
-          This project was coded by Sofia Torosian and is open-sourced on
+          This project was coded by Sofia Torosian and is open-sourced on{" "}
           <a
             class="link"
-            href="https://github.com/softoro/vanilla-weather-app"
+            href="https://github.com/softoro/weather-app-react"
             target="_blank"
             rel="noreferrer"
           >
             GitHub
-          </a>
-          and hosted on
+          </a>{" "}
+          and hosted on{" "}
           <a
             class="link"
             href="https://superb-kitsune-c0f039.netlify.app/"
