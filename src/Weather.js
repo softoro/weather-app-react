@@ -80,7 +80,7 @@ export default function Weather() {
           and hosted on{" "}
           <a
             class="link"
-            href="https://superb-kitsune-c0f039.netlify.app/"
+            href="https://ephemeral-bavarois-ea3740.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
